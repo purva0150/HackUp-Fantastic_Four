@@ -3,7 +3,7 @@
 client_secret*.json
 clients.txt
 *.env
-
+node_modules/
 # --- Temporary Data & Caches ---
 # Don't upload the locally stored emails (temp_inbox.json)
 temp_inbox.json
